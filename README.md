@@ -1,4 +1,4 @@
-# Heart-Failure-and-Mortality-Prediction
+# Heart Failure and Mortality Prediction
 
 ## Introduction
 This project uses patient’s clinical data to predict mortality via heart failure. The dataset can be 
